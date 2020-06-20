@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "990802188549",
+    "firebase_url": "https://proyectolabsol.firebaseio.com",
+    "project_id": "proyectolabsol",
+    "storage_bucket": "proyectolabsol.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990802188549:android:0af42b63c4a56f3564bf6c",
+        "android_client_info": {
+          "package_name": "com.example.labsol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "990802188549-uftu2hq04irilgvhpdh3hj6bf92t0d46.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.labsol",
+            "certificate_hash": "4457090147ea30e4e4fb6b7626e8f4440521ec0e"
+          }
+        },
+        {
+          "client_id": "990802188549-98tq29c27u1aauikbq5rku16o0j0cu4d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDilSO8utWIjPgUr2bITHhVgTAg0yq4IcI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "990802188549-98tq29c27u1aauikbq5rku16o0j0cu4d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

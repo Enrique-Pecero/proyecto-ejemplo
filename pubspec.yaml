@@ -1,0 +1,57 @@
+name: labsol
+description: App de Labsol
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.2.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^0.1.2
+  carousel_pro:
+  firebase_auth:
+  google_sign_in:
+  flutter_bloc:
+  equatable:
+  meta:
+  rxdart:
+  flutter_auth_buttons:
+  flutter_signin_button:
+  animate_do:
+  font_awesome_flutter:
+  datetime_picker_formfield: 
+  firebase_database:
+  
+  curved_navigation_bar: ^0.3.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_launcher_icons: 
+
+flutter_icons:
+  ios: true
+  android: true
+  image_path: "assets/labsolPrincipal.png"
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/labsol_1.png
+    - assets/edificio_photon.png
+    - assets/edificio_photon_2.png
+    - assets/labsol.png
+    - assets/labsol_entrada.png
+    - assets/labsol_scream.png
+    - assets/bannerLogo.png
+    - assets/labsolPrincipal.png
+
+
+
+
+
+
+
